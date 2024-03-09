@@ -10,25 +10,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.site{
-    margin-top: 50px;
-    margin-left: 50px;
-    display: flex;
-    color: #000;
-}
-
-.site ul li{
-    /* padding: 10px; */
-}
-
-.site ul li a{
-    color: #000;
-}
-
-.site ul li a:hover{
-    color: blue;
-}
-
 .header{
     width: 100%;
     height: 40px;
